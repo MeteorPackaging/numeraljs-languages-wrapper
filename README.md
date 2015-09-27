@@ -1,15 +1,20 @@
-# Meteor Numeral-js
+# Meteor Numeral-js languages
 
-[https://github.com/adamwdraper/Numeral-js](Numeral-js) packaged for Meteor.
+[https://github.com/adamwdraper/Numeral-js](Numeral-js) packaged for Meteor with languages support.
 
-Installation
+See it on [Atmosphere](https://atmospherejs.com/):
+[numeral:languages](https://atmospherejs.com/numeral/languages)
+
+## Installation
 
 With Meteor 1.0.1 and above, install using:
 
 ```
-$ meteor add numeral:numeral
+$ meteor add numeral:languages
 ```
 
-Documentation
+this will imply also [numeral:numeral](https://atmospherejs.com/numeral/numeral)
+
+## Documentation
 
 See [numeraljs.com](http://numeraljs.com/).
